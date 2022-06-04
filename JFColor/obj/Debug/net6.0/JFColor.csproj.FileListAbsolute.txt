@@ -1,0 +1,12 @@
+d:\tuirpg\JFColor\bin\Debug\net6.0\JFColor.deps.json
+d:\tuirpg\JFColor\bin\Debug\net6.0\JFColor.dll
+d:\tuirpg\JFColor\bin\Debug\net6.0\JFColor.pdb
+d:\tuirpg\JFColor\obj\Debug\net6.0\JFColor.csproj.AssemblyReference.cache
+d:\tuirpg\JFColor\obj\Debug\net6.0\JFColor.GeneratedMSBuildEditorConfig.editorconfig
+d:\tuirpg\JFColor\obj\Debug\net6.0\JFColor.AssemblyInfoInputs.cache
+d:\tuirpg\JFColor\obj\Debug\net6.0\JFColor.AssemblyInfo.cs
+d:\tuirpg\JFColor\obj\Debug\net6.0\JFColor.csproj.CoreCompileInputs.cache
+d:\tuirpg\JFColor\obj\Debug\net6.0\JFColor.dll
+d:\tuirpg\JFColor\obj\Debug\net6.0\refint\JFColor.dll
+d:\tuirpg\JFColor\obj\Debug\net6.0\JFColor.pdb
+d:\tuirpg\JFColor\obj\Debug\net6.0\ref\JFColor.dll
