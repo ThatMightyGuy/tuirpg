@@ -1,0 +1,131 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "JFColor/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/JFColor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JFColor.dll": {}
+        }
+      },
+      "JFLogger/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "JFColor": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/JFLogger.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JFLogger.dll": {}
+        }
+      },
+      "JFTUIWindowing/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/JFTUIWindowing.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JFTUIWindowing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JFColor/1.0.0": {
+      "type": "project",
+      "path": "../JFColor/JFColor.csproj",
+      "msbuildProject": "../JFColor/JFColor.csproj"
+    },
+    "JFLogger/1.0.0": {
+      "type": "project",
+      "path": "../../JFLogger/JFLogger/JFLogger.csproj",
+      "msbuildProject": "../../JFLogger/JFLogger/JFLogger.csproj"
+    },
+    "JFTUIWindowing/1.0.0": {
+      "type": "project",
+      "path": "../JFTUIWindowing/JFTUIWindowing.csproj",
+      "msbuildProject": "../JFTUIWindowing/JFTUIWindowing.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "JFColor >= 1.0.0",
+      "JFLogger >= 1.0.0",
+      "JFTUIWindowing >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jetfly\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "d:\\tuirpg\\tuirpg\\tuirpg.csproj",
+      "projectName": "tuirpg",
+      "projectPath": "d:\\tuirpg\\tuirpg\\tuirpg.csproj",
+      "packagesPath": "C:\\Users\\jetfly\\.nuget\\packages\\",
+      "outputPath": "d:\\tuirpg\\tuirpg\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\jetfly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "d:\\JFLogger\\JFLogger\\JFLogger.csproj": {
+              "projectPath": "d:\\JFLogger\\JFLogger\\JFLogger.csproj"
+            },
+            "d:\\tuirpg\\JFColor\\JFColor.csproj": {
+              "projectPath": "d:\\tuirpg\\JFColor\\JFColor.csproj"
+            },
+            "d:\\tuirpg\\JFTUIWindowing\\JFTUIWindowing.csproj": {
+              "projectPath": "d:\\tuirpg\\JFTUIWindowing\\JFTUIWindowing.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
