@@ -1,0 +1,12 @@
+d:\tuirpg\JFTUIWindowing\bin\Debug\net6.0\JFTUIWindowing.deps.json
+d:\tuirpg\JFTUIWindowing\bin\Debug\net6.0\JFTUIWindowing.dll
+d:\tuirpg\JFTUIWindowing\bin\Debug\net6.0\JFTUIWindowing.pdb
+d:\tuirpg\JFTUIWindowing\obj\Debug\net6.0\JFTUIWindowing.csproj.AssemblyReference.cache
+d:\tuirpg\JFTUIWindowing\obj\Debug\net6.0\JFTUIWindowing.GeneratedMSBuildEditorConfig.editorconfig
+d:\tuirpg\JFTUIWindowing\obj\Debug\net6.0\JFTUIWindowing.AssemblyInfoInputs.cache
+d:\tuirpg\JFTUIWindowing\obj\Debug\net6.0\JFTUIWindowing.AssemblyInfo.cs
+d:\tuirpg\JFTUIWindowing\obj\Debug\net6.0\JFTUIWindowing.csproj.CoreCompileInputs.cache
+d:\tuirpg\JFTUIWindowing\obj\Debug\net6.0\JFTUIWindowing.dll
+d:\tuirpg\JFTUIWindowing\obj\Debug\net6.0\refint\JFTUIWindowing.dll
+d:\tuirpg\JFTUIWindowing\obj\Debug\net6.0\JFTUIWindowing.pdb
+d:\tuirpg\JFTUIWindowing\obj\Debug\net6.0\ref\JFTUIWindowing.dll

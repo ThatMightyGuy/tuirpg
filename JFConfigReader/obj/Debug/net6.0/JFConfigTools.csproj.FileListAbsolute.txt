@@ -1,0 +1,12 @@
+d:\tuirpg\JFConfigReader\bin\Debug\net6.0\JFConfigTools.deps.json
+d:\tuirpg\JFConfigReader\bin\Debug\net6.0\JFConfigTools.dll
+d:\tuirpg\JFConfigReader\bin\Debug\net6.0\JFConfigTools.pdb
+d:\tuirpg\JFConfigReader\obj\Debug\net6.0\JFConfigTools.csproj.AssemblyReference.cache
+d:\tuirpg\JFConfigReader\obj\Debug\net6.0\JFConfigTools.GeneratedMSBuildEditorConfig.editorconfig
+d:\tuirpg\JFConfigReader\obj\Debug\net6.0\JFConfigTools.AssemblyInfoInputs.cache
+d:\tuirpg\JFConfigReader\obj\Debug\net6.0\JFConfigTools.AssemblyInfo.cs
+d:\tuirpg\JFConfigReader\obj\Debug\net6.0\JFConfigTools.csproj.CoreCompileInputs.cache
+d:\tuirpg\JFConfigReader\obj\Debug\net6.0\JFConfigTools.dll
+d:\tuirpg\JFConfigReader\obj\Debug\net6.0\refint\JFConfigTools.dll
+d:\tuirpg\JFConfigReader\obj\Debug\net6.0\JFConfigTools.pdb
+d:\tuirpg\JFConfigReader\obj\Debug\net6.0\ref\JFConfigTools.dll
